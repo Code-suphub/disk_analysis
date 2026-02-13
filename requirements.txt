@@ -1,0 +1,2 @@
+# No external dependencies required for the Python backend
+# The scanner.py file only uses built-in Python modules 
